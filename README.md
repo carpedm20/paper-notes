@@ -9,10 +9,12 @@
 
 - [FeUdal Networks for Hierarchical Reinforcement Learning](notes/FuN.md) [[arxiv](http://arxiv.org/abs/1703.01161)]
 - [Feature Control as Intrinsic Motivation for Hierarchical Reinforcement Learning](notes/feature-control.md) [[arxiv](https://arxiv.org/abs/1705.06769)]
+- [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](notes/beta-vae-and-DARLA.md) [[paper](http://proceedings.mlr.press/v70/higgins17a/higgins17a.pdf)]
 
 
-## Reasoning
+## Reasoning & Learn visual concepts
 
+- [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](notes/beta-vae-and-DARLA.md) [[openreview](https://openreview.net/forum?id=Sy2fzU9gl)]
 - [Learning to Reason: End-to-End Module Networks for Visual Question Answering](notes/learn-to-reason.md) [[arxiv](https://arxiv.org/abs/1704.05526)]
 
 
